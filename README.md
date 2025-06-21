@@ -1,3 +1,5 @@
+Resolve conflito no README.md
+
 # Simulador Básico de FMC/CDU - Flight Management Computer
 
 Este projeto é uma simulação simplificada de um FMC/CDU (Flight Management Computer / Control Display Unit) usado em aeronaves comerciais. Foi desenvolvido em Python com interface gráfica Tkinter, com integração de mapa via Matplotlib e alertas sonoros.
@@ -29,3 +31,6 @@ Para instalar as bibliotecas externas use:
 
 ```bash
 pip install matplotlib requests playsound
+=======
+# fmc-cdu-simulator
+>>>>>>> 2f3fff55f1a043f8a6e75391254be8d5efc53bcf
